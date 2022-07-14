@@ -1,5 +1,93 @@
 [
   {
+    "title": "Janské Dni Turzovka",
+    "city": "Turzovka",
+    "venue": "Areál športu a oddychu Závodie",
+    "location": "49.40219643022408, 18.61952538020147",
+    "datetime": "2019-06-21T16:30:00+02:00",
+    "bands": [
+      "Kali",
+      "Peter Pann",
+      "Buty",
+      "Mafia Corner",
+      "Autumn Smile",
+      "Body",
+      "Tom Case",
+      "5-TKA",
+      "Katapult reviband"
+    ]
+  },
+  {
+    "title": "Fest Rock Vysoká 2018",
+    "city": "Vysoká nad Kysucou",
+    "venue": "Námestie",
+    "location": "49.38048382622834, 18.547440917810142",
+    "datetime": "2018-09-22T19:00:00+02:00",
+    "bands": [
+      "Michal Zborovan ml.",
+      "Katapult reviband",
+      "Mad Frequency",
+      "Hrdza"
+    ]
+  },
+  {
+    "title": "Dni Kultúry Nová Bystrica 2018",
+    "city": "Nová Bystrica",
+    "venue": "Pod jedným veľkým stanom",
+    "location": "49.34324184990625, 19.02217263330472",
+    "datetime": "2018-06-22T19:00:00+02:00",
+    "bands": ["No One", "Metalinda", "Katarína Knechtová"]
+  },
+  {
+    "title": "Víkend Fest 2017",
+    "city": "Žilina",
+    "venue": "Art Atelier Cafe",
+    "location": "49.220468092545396, 18.745184414263434",
+    "datetime": "2017-07-30T17:00:00+02:00",
+    "bands": [
+      "Seventh Weapon",
+      "Aces",
+      "Stolen Money",
+      "Maj.Dur",
+      "Baking Bread",
+      "Private Jet",
+      "Peter a Dávid",
+      "Angry Chair",
+      "Svieca vo vetre",
+      "Daniel Buc",
+      "Tom Trník"
+    ]
+  },
+  {
+    "title": "Bytčianske Kultúrne Leto 2017",
+    "city": "Bytča",
+    "venue": "Námestie Slovenskej Republiky",
+    "location": "49.2233609792479, 18.55910288966558",
+    "datetime": "2017-06-30T19:00:00+02:00",
+    "bands": ["No One", "Elán Tribute"]
+  },
+  {
+    "title": "Turiec Fest",
+    "city": "Martin",
+    "venue": "AMFIKO Martin",
+    "datetime": "2017-06-24T14:15:00+02:00",
+    "location": "49.06309794621151, 18.927658081822926",
+    "bands": [
+      "Arakain & Lucie Bíla",
+      "Hex",
+      "The Paranoid",
+      "Karpina",
+      "Heľenine Oči",
+      "Slobodná Európa",
+      "Anthology",
+      "Rock Reunion",
+      "Bod Omylu",
+      "Eufory",
+      "Mad Frequency",
+      "Caliber X"
+    ]
+  },
+  {
     "title": "Rock Beskyd Fest 2016",
     "city": "Turzovka",
     "venue": "",
@@ -347,8 +435,8 @@
   {
     "title": "Dni Kultúry Nová Bystrica 2013",
     "city": "Nová Bystica",
-    "venue": "",
-    "location": "",
+    "venue": "Pod jedným veľkým stanom",
+    "location": "49.34324184990625, 19.02217263330472",
     "datetime": "2013-06-22T18:00:00.000+02:00",
     "bands": ["..."]
   }
