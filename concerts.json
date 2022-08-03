@@ -336,16 +336,16 @@
   {
     "title": "Zimný Fest 2013",
     "city": "Oščadnica (Veľká Rača)",
-    "venue": "",
-    "location": "",
+    "venue": "Snowparadise",
+    "location": "49.4152954765274, 18.920598370629577",
     "datetime": "2013-12-28T13:00:00.000+01:00",
     "bands": ["Šleha", "Jirka Schelinger revival", "R.U.M."]
   },
   {
     "title": "Vargoš Fest 2013 Winter",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Depo Club Turzovka",
+    "location": "49.40298948544479, 18.626148739009018",
     "datetime": "2013-12-26T17:00:00.000+01:00",
     "bands": ["Rakofski Reznici", "How-No-Cuc", "For Tape", "Predestination"]
   },
@@ -384,21 +384,27 @@
   {
     "title": "Makoffest 2013",
     "city": "Makov",
-    "venue": "",
-    "location": "",
+    "venue": "Dom kultúrny Makov",
+    "location": "49.3707865658568, 18.480866830206438",
     "datetime": "2013-08-30T16:00:00.000+02:00",
     "bands": [
-      "Puding Pani Elvisovej",
-      "Smola a Hrušky",
-      "From Our Hands",
-      "..."
+      "VEC",
+      "SMOLA A HRUŠKY",
+      "PUDING PANI ELVISOVEJ",
+      "FROM OUR HANDS",
+      "BOYBAND - BOY WONDER & IDEA",
+      "KARAOKE TUNDRA",
+      "HUDBA Z DOLA",
+      "SEVER ZEME",
+      "DANO & KUBEZ",
+      "Bod Omylu"
     ]
   },
   {
     "title": "Hidden Music Fest 2013",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Turzovka - Staré Ihrisko",
+    "location": "49.40505863834697, 18.616516212421324",
     "datetime": "2013-08-24T18:00:00.000+02:00",
     "bands": [
       "WITTY JOE",
@@ -411,26 +417,32 @@
   {
     "title": "Vargoš Fest 2013 Summer",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Tržnica Bar",
+    "location": "49.40245990655432, 18.625557650015573",
     "datetime": "2013-08-17T20:00:00.000+02:00",
-    "bands": ["---"]
+    "bands": [
+      "Bad Shot",
+      "Primary Resistance",
+      "Get Loose",
+      "Predestination",
+      "Pearl Jam (revival)"
+    ]
   },
   {
     "title": "Hudbou k rozletu",
     "city": "Makov",
-    "venue": "",
-    "location": "",
+    "venue": "Dom kultúrny Makov",
+    "location": "49.3707865658568, 18.480866830206438",
     "datetime": "2013-06-29T13:00:00.000+02:00",
     "bands": ["NoXcuse"]
   },
   {
     "title": "Rock Beskyd Fest 2013 (B.O.R)",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Turzovka Amfiteáter",
+    "location": "49.40194919678838, 18.62827962167572",
     "datetime": "2013-08-02T16:00:00.000+02:00",
-    "bands": ["..."]
+    "bands": ["Wadda", "Konflikt", "Gladiátor", "Nirvana revival"]
   },
   {
     "title": "Dni Kultúry Nová Bystrica 2013",
@@ -438,6 +450,12 @@
     "venue": "Pod jedným veľkým stanom",
     "location": "49.34324184990625, 19.02217263330472",
     "datetime": "2013-06-22T18:00:00.000+02:00",
-    "bands": ["..."]
+    "bands": [
+      "Aria",
+      "Core Of Hell",
+      "Mad Frequency",
+      "Arzén",
+      "Roxette Revival"
+    ]
   }
 ]
