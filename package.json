@@ -1,0 +1,16 @@
+{
+  "name": "bezpochyb",
+  "version": "0.0.1",
+  "description": "Website for the band Bezpochýb",
+  "main": "src/index.js",
+  "repository": "git@github.com:matejkubinec/bezpochyb.git",
+  "author": "Matej Kubinec <matej.kubinec@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html"
+  }
+}
