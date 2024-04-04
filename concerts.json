@@ -36,7 +36,11 @@
     "venue": "Pod jedným veľkým stanom",
     "location": "49.34324184990625, 19.02217263330472",
     "datetime": "2018-06-22T19:00:00+02:00",
-    "bands": ["No One", "Metalinda", "Katarína Knechtová"]
+    "bands": [
+      "No One",
+      "Metalinda",
+      "Katarína Knechtová"
+    ]
   },
   {
     "title": "Víkend Fest 2017",
@@ -64,7 +68,10 @@
     "venue": "Námestie Slovenskej Republiky",
     "location": "49.2233609792479, 18.55910288966558",
     "datetime": "2017-06-30T19:00:00+02:00",
-    "bands": ["No One", "Elán Tribute"]
+    "bands": [
+      "No One",
+      "Elán Tribute"
+    ]
   },
   {
     "title": "Turiec Fest",
@@ -90,48 +97,65 @@
   {
     "title": "Rock Beskyd Fest 2016",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Amfiteáter Turzovka",
+    "location": "49.40224897532649, 18.627474926003362",
     "datetime": "2016-08-06T17:30:00.000+02:00",
-    "bands": ["Phylosophium", "Aya", "Helenine Oči", "Arzén", "IMT Smile"]
+    "bands": [
+      "Phylosophium",
+      "Aya",
+      "Helenine Oči",
+      "Arzén",
+      "IMT Smile"
+    ]
   },
   {
     "title": "Makovské hody (Akusticky)",
     "city": "Makov",
-    "venue": "",
-    "location": "",
+    "venue": "Poľana",
+    "location": "49.371267381253226, 18.480001156669175",
     "datetime": "2016-07-02T20:30:00.000+02:00",
-    "bands": ["---"]
+    "bands": []
   },
   {
     "title": "Summer Season Opening",
     "city": "Jazernica",
-    "venue": "",
-    "location": "",
+    "venue": "Kultúrny Dom",
+    "location": "48.927434696501464, 18.831255293690294",
     "datetime": "2016-06-04T20:00:00.000+02:00",
-    "bands": ["Bez Hraníc"]
+    "bands": [
+      "Bez Hraníc",
+      "Grow Up"
+    ]
   },
   {
     "title": "Hidden Music Fest 2016",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Tržnica Bar",
+    "location": "49.40254445108521, 18.62557192089646",
     "datetime": "2016-05-28T19:00:00.000+02:00",
-    "bands": ["Immersion", "Crimson Ocean", "Stripless", "Maiden Tribute Band"]
+    "bands": [
+      "Immersion",
+      "Crimson Ocean",
+      "Stripless",
+      "Maiden Tribute Band"
+    ]
   },
   {
     "title": "Konflikt Poldecák Tour",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Depo club",
+    "location": "49.403035101476405, 18.62607334683244",
     "datetime": "2016-04-23T19:00:00.000+02:00",
-    "bands": ["Konfilkt", "Sedembolestný panic Mário"]
+    "bands": [
+      "Konfilkt",
+      "Sedembolestný panic Mário"
+    ]
   },
   {
     "title": "Dni Kultúry Nová Bystrica 2015",
     "city": "Nová Bystrica",
-    "venue": "",
-    "location": "",
+    "venue": "Pod jedným veľkým stanom",
+    "location": "49.34324184990625, 19.02217263330472",
     "datetime": "2015-09-19T19:30:00.000+02:00",
     "bands": [
       "Old Modem",
@@ -143,24 +167,29 @@
   {
     "title": "Michalský jarmok 2015",
     "city": "Bytča",
-    "venue": "",
-    "location": "",
+    "venue": "Dom Kultúry",
+    "location": "49.22480835540464, 18.55776288725166",
     "datetime": "2015-09-19T17:00:00.000+02:00",
-    "bands": ["Mad Frequency", "Gladiátor"]
+    "bands": [
+      "Mad Frequency",
+      "Gladiátor"
+    ]
   },
   {
     "title": "Staré ihrisko",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Turzovka - Staré Ihrisko",
+    "location": "49.40515297380129, 18.616752494064592",
     "datetime": "2015-08-15T19:00:00.000+02:00",
-    "bands": ["Haluzotvoristika", "..."]
+    "bands": [
+      "Haluzotvoristika"
+    ]
   },
   {
     "title": "Rock Beskyd Fest 2015",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Turzovka Amfiteáter",
+    "location": "49.40194919678838, 18.62827962167572",
     "datetime": "2015-08-08T17:30:00.000+02:00",
     "bands": [
       "Haluzotvoristika",
@@ -174,16 +203,19 @@
   {
     "title": "Grow Up! Takí akí sme TOUR 2015",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Depo club",
+    "location": "49.403035101476405, 18.62607334683244",
     "datetime": "2016-06-19T20:00:00.000+02:00",
-    "bands": ["Grow up", "Haluzotvoristika"]
+    "bands": [
+      "Grow up",
+      "Haluzotvoristika"
+    ]
   },
   {
     "title": "Famat 2015",
     "city": "Nové Mesto nad Váhom",
-    "venue": "",
-    "location": "",
+    "venue": "Klub Za Rampami",
+    "location": "48.74423803278311, 17.84091320808212",
     "datetime": "2016-04-11T17:00:00.000+02:00",
     "bands": [
       "Stripless",
@@ -194,18 +226,22 @@
     ]
   },
   {
-    "title": "Depo Retorik Tour",
+    "title": "Sound Of Violence 2015",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Depo club",
+    "location": "49.403035101476405, 18.62607334683244",
     "datetime": "2015-03-13T18:00:00.000+01:00",
-    "bands": ["HWCO", "Retorik", "Archa"]
+    "bands": [
+      "HWCO",
+      "Retorik",
+      "Archa"
+    ]
   },
   {
     "title": "Music Mravec Fest 2015",
     "city": "Turzovka",
-    "venue": "",
-    "location": "",
+    "venue": "Motorest Mravec",
+    "location": "49.40504091548466, 18.635150565106844",
     "datetime": "2016-02-06T20:30:00.000+01:00",
     "bands": [
       "Tak či onak",
@@ -218,34 +254,42 @@
   {
     "title": "Rockové Vianoce Vol. 3",
     "city": "Čadca",
-    "venue": "",
-    "location": "",
+    "venue": "Alcatraz Čadca",
+    "location": "49.43589188529919, 18.79128266995694",
     "datetime": "2014-12-12T19:00:00.000+01:00",
-    "bands": ["Sklené oči"]
+    "bands": [
+      "Sklené oči"
+    ]
   },
   {
     "title": "Rádio X - Živák",
     "city": "Žilina",
-    "venue": "",
-    "location": "",
+    "venue": "Rádio X",
+    "location": "49.209133845562725, 18.759762739630634",
     "datetime": "2014-11-25T20:00:00.000+01:00",
-    "bands": ["Whiskey Weekend"]
+    "bands": [
+      "Whiskey Weekend"
+    ]
   },
   {
     "title": "Rocková noc v Drevine",
     "city": "Krásno nad Kysucou",
-    "venue": "",
-    "location": "",
+    "venue": "Hudobno Tanečný Klub Drevina",
+    "location": "49.396831182660165, 18.83858701829097",
     "datetime": "2014-10-10T20:00:00.000+02:00",
-    "bands": ["Tak či onak", "T.O.R.", "Alfa"]
+    "bands": [
+      "Tak či onak",
+      "T.O.R.",
+      "Alfa"
+    ]
   },
   {
     "title": "martenz (Akusticky)",
     "city": "Čadca",
-    "venue": "",
-    "location": "",
+    "venue": "Martenz (Artenz)",
+    "location": "49.4383674917598, 18.785053473016248",
     "datetime": "2014-10-04T20:00:00.000+02:00",
-    "bands": ["---"]
+    "bands": []
   },
   {
     "title": "Fest Rock Vysoká 2014",
@@ -253,7 +297,11 @@
     "venue": "",
     "location": "",
     "datetime": "2014-09-20T20:00:00.000+02:00",
-    "bands": ["Elán Tribute", "Tak či onak", "Koridor"]
+    "bands": [
+      "Elán Tribute",
+      "Tak či onak",
+      "Koridor"
+    ]
   },
   {
     "title": "End of the summer (Akusticky)",
@@ -261,7 +309,9 @@
     "venue": "",
     "location": "",
     "datetime": "2014-08-29T20:00:00.000+02:00",
-    "bands": ["---"]
+    "bands": [
+      "---"
+    ]
   },
   {
     "title": "Rock in Garden (Open Air/2014)",
@@ -269,7 +319,11 @@
     "venue": "",
     "location": "",
     "datetime": "2014-08-09T17:00:00.000+02:00",
-    "bands": ["Bokom Okolky", "Caliber X", "N-grave"]
+    "bands": [
+      "Bokom Okolky",
+      "Caliber X",
+      "N-grave"
+    ]
   },
   {
     "title": "Rock Beskyd Fest 2014 (B.O.R.)",
@@ -277,7 +331,11 @@
     "venue": "",
     "location": "",
     "datetime": "2014-08-01T17:00:00.000+02:00",
-    "bands": ["The Paranoid", "IneKafe", "..."]
+    "bands": [
+      "The Paranoid",
+      "IneKafe",
+      "..."
+    ]
   },
   {
     "title": "Hidden Music Fest 2014 (KRST K.S.I.)",
@@ -285,7 +343,9 @@
     "venue": "",
     "location": "",
     "datetime": "2014-06-21T17:00:00.000+02:00",
-    "bands": ["..."]
+    "bands": [
+      "..."
+    ]
   },
   {
     "title": "Dni Kultúry Nová Bystrica 2014",
@@ -293,7 +353,12 @@
     "venue": "",
     "location": "",
     "datetime": "2014-06-20T19:00:00.000+02:00",
-    "bands": ["Elán Tribute", "Premier", "Arthera", "Thetox"]
+    "bands": [
+      "Elán Tribute",
+      "Premier",
+      "Arthera",
+      "Thetox"
+    ]
   },
   {
     "title": "Priority (Akusticky)",
@@ -301,7 +366,9 @@
     "venue": "",
     "location": "",
     "datetime": "2014-04-19T19:30:00.000+02:00",
-    "bands": ["---"]
+    "bands": [
+      "---"
+    ]
   },
   {
     "title": "Rainman's Singel Roku",
@@ -309,7 +376,9 @@
     "venue": "",
     "location": "",
     "datetime": "2014-02-24T16:00:00.000+01:00",
-    "bands": ["--"]
+    "bands": [
+      "--"
+    ]
   },
   {
     "title": "martenz (Akusticky)",
@@ -317,7 +386,9 @@
     "venue": "",
     "location": "",
     "datetime": "2014-02-28T19:00:00.000+01:00",
-    "bands": ["---"]
+    "bands": [
+      "---"
+    ]
   },
   {
     "title": "Music Mravec Fest 2014",
@@ -339,7 +410,11 @@
     "venue": "Snowparadise",
     "location": "49.4152954765274, 18.920598370629577",
     "datetime": "2013-12-28T13:00:00.000+01:00",
-    "bands": ["Šleha", "Jirka Schelinger revival", "R.U.M."]
+    "bands": [
+      "Šleha",
+      "Jirka Schelinger revival",
+      "R.U.M."
+    ]
   },
   {
     "title": "Vargoš Fest 2013 Winter",
@@ -347,7 +422,12 @@
     "venue": "Depo Club Turzovka",
     "location": "49.40298948544479, 18.626148739009018",
     "datetime": "2013-12-26T17:00:00.000+01:00",
-    "bands": ["Rakofski Reznici", "How-No-Cuc", "For Tape", "Predestination"]
+    "bands": [
+      "Rakofski Reznici",
+      "How-No-Cuc",
+      "For Tape",
+      "Predestination"
+    ]
   },
   {
     "title": "Escape Club (Mini Acoustic Tour 2013)",
@@ -355,7 +435,9 @@
     "venue": "",
     "location": "",
     "datetime": "2013-11-29T18:30:00.000+01:00",
-    "bands": ["Wadda"]
+    "bands": [
+      "Wadda"
+    ]
   },
   {
     "title": "Polana (Mini Acoustic Tour 2013)",
@@ -363,7 +445,7 @@
     "venue": "",
     "location": "",
     "datetime": "2013-11-23T18:30:00.000+01:00",
-    "bands": ["---"]
+    "bands": []
   },
   {
     "title": "Priority (Mini Acoustic Tour 2013)",
@@ -371,7 +453,7 @@
     "venue": "",
     "location": "",
     "datetime": "2013-11-16T20:00:00.000+01:00",
-    "bands": ["---"]
+    "bands": []
   },
   {
     "title": "Escape Club Grand Opening 2013",
@@ -379,7 +461,7 @@
     "venue": "",
     "location": "",
     "datetime": "2013-09-20T16:00:00.000+02:00",
-    "bands": ["---"]
+    "bands": []
   },
   {
     "title": "Makoffest 2013",
@@ -434,7 +516,9 @@
     "venue": "Dom kultúrny Makov",
     "location": "49.3707865658568, 18.480866830206438",
     "datetime": "2013-06-29T13:00:00.000+02:00",
-    "bands": ["NoXcuse"]
+    "bands": [
+      "NoXcuse"
+    ]
   },
   {
     "title": "Rock Beskyd Fest 2013 (B.O.R)",
@@ -442,7 +526,12 @@
     "venue": "Turzovka Amfiteáter",
     "location": "49.40194919678838, 18.62827962167572",
     "datetime": "2013-08-02T16:00:00.000+02:00",
-    "bands": ["Wadda", "Konflikt", "Gladiátor", "Nirvana revival"]
+    "bands": [
+      "Wadda",
+      "Konflikt",
+      "Gladiátor",
+      "Nirvana revival"
+    ]
   },
   {
     "title": "Dni Kultúry Nová Bystrica 2013",
