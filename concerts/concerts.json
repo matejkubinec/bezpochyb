@@ -1,5 +1,6 @@
 [
   {
+    "id": "2019-06-21-janske-dni-turzovka",
     "title": "Janské Dni Turzovka",
     "city": "Turzovka",
     "venue": "Areál športu a oddychu Závodie",
@@ -18,6 +19,7 @@
     ]
   },
   {
+    "id": "2018-09-22-fest-rock-vysoka-2018",
     "title": "Fest Rock Vysoká 2018",
     "city": "Vysoká nad Kysucou",
     "venue": "Námestie",
@@ -31,6 +33,7 @@
     ]
   },
   {
+    "id": "2018-06-22-dni-kultury-nova-bystrica",
     "title": "Dni Kultúry Nová Bystrica 2018",
     "city": "Nová Bystrica",
     "venue": "Pod jedným veľkým stanom",
@@ -43,6 +46,7 @@
     ]
   },
   {
+    "id": "2017-07-30-vikend-fest-2017",
     "title": "Víkend Fest 2017",
     "city": "Žilina",
     "venue": "Art Atelier Cafe",
@@ -63,6 +67,7 @@
     ]
   },
   {
+    "id": "2017-06-30-bytcianske-kulturne-leto-2017",
     "title": "Bytčianske Kultúrne Leto 2017",
     "city": "Bytča",
     "venue": "Námestie Slovenskej Republiky",
@@ -74,6 +79,7 @@
     ]
   },
   {
+    "id": "2017-06-24-turiec-fest",
     "title": "Turiec Fest",
     "city": "Martin",
     "venue": "AMFIKO Martin",
@@ -95,6 +101,7 @@
     ]
   },
   {
+    "id": "2016-08-06-rock-beskyd-fest-2016",
     "title": "Rock Beskyd Fest 2016",
     "city": "Turzovka",
     "venue": "Amfiteáter Turzovka",
@@ -109,6 +116,7 @@
     ]
   },
   {
+    "id": "2016-07-02-makovske-hody",
     "title": "Makovské hody (Akusticky)",
     "city": "Makov",
     "venue": "Poľana",
@@ -117,6 +125,7 @@
     "bands": []
   },
   {
+    "id": "2016-06-04-jazernica-summer-season-opening",
     "title": "Summer Season Opening",
     "city": "Jazernica",
     "venue": "Kultúrny Dom",
@@ -128,6 +137,7 @@
     ]
   },
   {
+    "id": "2016-05-28-hidden-music-fest-2016",
     "title": "Hidden Music Fest 2016",
     "city": "Turzovka",
     "venue": "Tržnica Bar",
@@ -141,6 +151,7 @@
     ]
   },
   {
+    "id": "2016-04-23-konflikt-poldecak-tour",
     "title": "Konflikt Poldecák Tour",
     "city": "Turzovka",
     "venue": "Depo club",
@@ -152,6 +163,7 @@
     ]
   },
   {
+    "id": "2015-09-19-dni-kultury-nova-bystrica-2015",
     "title": "Dni Kultúry Nová Bystrica 2015",
     "city": "Nová Bystrica",
     "venue": "Pod jedným veľkým stanom",
@@ -165,6 +177,7 @@
     ]
   },
   {
+    "id": "2015-09-19-bytca-michalovsky-jarmok-2015",
     "title": "Michalský jarmok 2015",
     "city": "Bytča",
     "venue": "Dom Kultúry",
@@ -176,6 +189,7 @@
     ]
   },
   {
+    "id": "2015-08-15-turzovka-stare-ihrisko",
     "title": "Staré ihrisko",
     "city": "Turzovka",
     "venue": "Turzovka - Staré Ihrisko",
@@ -186,6 +200,7 @@
     ]
   },
   {
+    "id": "2015-08-08-rock-beskyd-fest-2015",
     "title": "Rock Beskyd Fest 2015",
     "city": "Turzovka",
     "venue": "Turzovka Amfiteáter",
@@ -201,22 +216,24 @@
     ]
   },
   {
+    "id": "2015-06-19-grow-up-taki-aki-sme-tour-2015",
     "title": "Grow Up! Takí akí sme TOUR 2015",
     "city": "Turzovka",
     "venue": "Depo club",
     "location": "49.403035101476405, 18.62607334683244",
-    "datetime": "2016-06-19T20:00:00.000+02:00",
+    "datetime": "2015-06-19T20:00:00.000+02:00",
     "bands": [
       "Grow up",
       "Haluzotvoristika"
     ]
   },
   {
+    "id": "2016-04-11-famat-2015",
     "title": "Famat 2015",
     "city": "Nové Mesto nad Váhom",
     "venue": "Klub Za Rampami",
     "location": "48.74423803278311, 17.84091320808212",
-    "datetime": "2016-04-11T17:00:00.000+02:00",
+    "datetime": "2015-04-11T17:00:00.000+02:00",
     "bands": [
       "Stripless",
       "Everlong",
@@ -226,6 +243,7 @@
     ]
   },
   {
+    "id": "2015-03-13-sound-of-violence-2015",
     "title": "Sound Of Violence 2015",
     "city": "Turzovka",
     "venue": "Depo club",
@@ -238,11 +256,12 @@
     ]
   },
   {
+    "id": "2015-02-06-music-mravec-fest-2015",
     "title": "Music Mravec Fest 2015",
     "city": "Turzovka",
     "venue": "Motorest Mravec",
     "location": "49.40504091548466, 18.635150565106844",
-    "datetime": "2016-02-06T20:30:00.000+01:00",
+    "datetime": "2015-02-06T20:30:00.000+01:00",
     "bands": [
       "Tak či onak",
       "Kulimanga",
@@ -252,6 +271,7 @@
     ]
   },
   {
+    "id": "2014-12-12-rockove-vianoce-vol-3",
     "title": "Rockové Vianoce Vol. 3",
     "city": "Čadca",
     "venue": "Alcatraz Čadca",
@@ -262,6 +282,7 @@
     ]
   },
   {
+    "id": "2014-11-25-radio-x-zivak",
     "title": "Rádio X - Živák",
     "city": "Žilina",
     "venue": "Rádio X",
@@ -272,6 +293,7 @@
     ]
   },
   {
+    "id": "2014-10-10-rockova-noc-v-drevine",
     "title": "Rocková noc v Drevine",
     "city": "Krásno nad Kysucou",
     "venue": "Hudobno Tanečný Klub Drevina",
@@ -284,6 +306,7 @@
     ]
   },
   {
+    "id": "2014-10-04-martenz-akusticky",
     "title": "martenz (Akusticky)",
     "city": "Čadca",
     "venue": "Martenz (Artenz)",
@@ -292,6 +315,7 @@
     "bands": []
   },
   {
+    "id": "2014-09-20-fest-rock-vysoka-2014",
     "title": "Fest Rock Vysoká 2014",
     "city": "Vysoká nad Kysucou",
     "venue": "",
@@ -304,6 +328,7 @@
     ]
   },
   {
+    "id": "2014-08-29-makov-end-of-the-summer",
     "title": "End of the summer (Akusticky)",
     "city": "Makov",
     "venue": "",
@@ -314,6 +339,7 @@
     ]
   },
   {
+    "id": "2014-08-09-bytca-rock-in-garden",
     "title": "Rock in Garden (Open Air/2014)",
     "city": "Bytča",
     "venue": "",
@@ -326,6 +352,7 @@
     ]
   },
   {
+    "id": "2014-08-01-rock-beskyd-fest-2014",
     "title": "Rock Beskyd Fest 2014 (B.O.R.)",
     "city": "Turzovka",
     "venue": "",
@@ -338,6 +365,7 @@
     ]
   },
   {
+    "id": "2014-06-21-hidden-music-fest-2014",
     "title": "Hidden Music Fest 2014 (KRST K.S.I.)",
     "city": "Turzovka",
     "venue": "",
@@ -348,6 +376,7 @@
     ]
   },
   {
+    "id": "2014-06-20-dni-kultury-nova-bystrica-2014",
     "title": "Dni Kultúry Nová Bystrica 2014",
     "city": "Turzovka",
     "venue": "",
@@ -361,6 +390,7 @@
     ]
   },
   {
+    "id": "2014-04-19-turzovka-priority-akusticky",
     "title": "Priority (Akusticky)",
     "city": "Turzovka",
     "venue": "",
@@ -371,16 +401,7 @@
     ]
   },
   {
-    "title": "Rainman's Singel Roku",
-    "city": "Bratislava",
-    "venue": "",
-    "location": "",
-    "datetime": "2014-02-24T16:00:00.000+01:00",
-    "bands": [
-      "--"
-    ]
-  },
-  {
+    "id": "2014-02-28-cadca-martenz-akusticky",
     "title": "martenz (Akusticky)",
     "city": "Čadca",
     "venue": "",
@@ -391,6 +412,18 @@
     ]
   },
   {
+    "id": "2014-02-24-bratislava-rainmans-singel-roku",
+    "title": "Rainman's Singel Roku",
+    "city": "Bratislava",
+    "venue": "",
+    "location": "",
+    "datetime": "2014-02-24T16:00:00.000+01:00",
+    "bands": [
+      "--"
+    ]
+  },
+  {
+    "id": "2014-02-08-music-mravec-fest-2014",
     "title": "Music Mravec Fest 2014",
     "city": "Turzovka",
     "venue": "",
@@ -405,6 +438,7 @@
     ]
   },
   {
+    "id": "2013-12-28-zimny-fest-2013",
     "title": "Zimný Fest 2013",
     "city": "Oščadnica (Veľká Rača)",
     "venue": "Snowparadise",
@@ -417,6 +451,7 @@
     ]
   },
   {
+    "id": "2013-12-26-vargos-fest-2013-winter",
     "title": "Vargoš Fest 2013 Winter",
     "city": "Turzovka",
     "venue": "Depo Club Turzovka",
@@ -430,6 +465,7 @@
     ]
   },
   {
+    "id": "2013-11-29-escape-club-mini-acoustic-tour-2013",
     "title": "Escape Club (Mini Acoustic Tour 2013)",
     "city": "Žilina",
     "venue": "",
@@ -440,6 +476,7 @@
     ]
   },
   {
+    "id": "2013-11-23-makov-mini-acoustic-tour-2013",
     "title": "Polana (Mini Acoustic Tour 2013)",
     "city": "Makov",
     "venue": "",
@@ -448,6 +485,7 @@
     "bands": []
   },
   {
+    "id": "2013-11-16-turzovka-mini-acoustic-tour-2013",
     "title": "Priority (Mini Acoustic Tour 2013)",
     "city": "Turzovka",
     "venue": "",
@@ -456,6 +494,7 @@
     "bands": []
   },
   {
+    "id": "2013-09-20-zilina-escape-club-grand-opening-2013",
     "title": "Escape Club Grand Opening 2013",
     "city": "Žilina",
     "venue": "",
@@ -464,6 +503,7 @@
     "bands": []
   },
   {
+    "id": "2013-08-30-makoffest-2013",
     "title": "Makoffest 2013",
     "city": "Makov",
     "venue": "Dom kultúrny Makov",
@@ -483,6 +523,7 @@
     ]
   },
   {
+    "id": "2013-08-24-hidden-music-fest-2013",
     "title": "Hidden Music Fest 2013",
     "city": "Turzovka",
     "venue": "Turzovka - Staré Ihrisko",
@@ -497,6 +538,7 @@
     ]
   },
   {
+    "id": "2013-08-17-vargos-fest-2013-summer",
     "title": "Vargoš Fest 2013 Summer",
     "city": "Turzovka",
     "venue": "Tržnica Bar",
@@ -511,6 +553,7 @@
     ]
   },
   {
+    "id": "2013-06-29-makov-hudbou-k-rozletu",
     "title": "Hudbou k rozletu",
     "city": "Makov",
     "venue": "Dom kultúrny Makov",
@@ -521,6 +564,7 @@
     ]
   },
   {
+    "id": "2013-08-02-rock-beskyd-fest-2013",
     "title": "Rock Beskyd Fest 2013 (B.O.R)",
     "city": "Turzovka",
     "venue": "Turzovka Amfiteáter",
@@ -534,6 +578,7 @@
     ]
   },
   {
+    "id": "2013-06-22-dni-kultury-nova-bystrica-2013",
     "title": "Dni Kultúry Nová Bystrica 2013",
     "city": "Nová Bystica",
     "venue": "Pod jedným veľkým stanom",
