@@ -16,6 +16,21 @@
       "Tom Case",
       "5-TKA",
       "Katapult reviband"
+    ],
+    "poster": "concerts/2019-06-21-janske-dni-turzovka/plagat.jpg",
+    "images": [
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-01.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-02.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-03.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-04.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-05.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-06.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-07.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-08.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-09.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-10.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-11.jpg",
+      "concerts/2019-06-21-janske-dni-turzovka/fotky/janske-dni-12.jpg"
     ]
   },
   {
@@ -30,7 +45,9 @@
       "Katapult reviband",
       "Mad Frequency",
       "Hrdza"
-    ]
+    ],
+    "poster": "concerts/2018-09-22-fest-rock-vysoka-2018/plagat.jpg",
+    "images": []
   },
   {
     "id": "2018-06-22-dni-kultury-nova-bystrica",
@@ -43,7 +60,9 @@
       "No One",
       "Metalinda",
       "Katarína Knechtová"
-    ]
+    ],
+    "poster": "concerts/2018-06-22-dni-kultury-nova-bystrica/plagat.jpg",
+    "images": []
   },
   {
     "id": "2017-07-30-vikend-fest-2017",
@@ -64,7 +83,9 @@
       "Svieca vo vetre",
       "Daniel Buc",
       "Tom Trník"
-    ]
+    ],
+    "poster": "concerts/2017-07-30-vikend-fest-2017/plagat.jpg",
+    "images": []
   },
   {
     "id": "2017-06-30-bytcianske-kulturne-leto-2017",
@@ -76,6 +97,23 @@
     "bands": [
       "No One",
       "Elán Tribute"
+    ],
+    "poster": "concerts/2017-06-30-bytcianske-kulturne-leto-2017/plagat.jpg",
+    "images": [
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-01.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-02.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-03.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-04.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-05.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-06.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-07.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-08.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-09.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-10.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-11.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-12.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-13.jpg",
+      "concerts/2017-06-30-bytcianske-kulturne-leto-2017/fotky/bytca-14.jpg"
     ]
   },
   {
@@ -98,6 +136,15 @@
       "Eufory",
       "Mad Frequency",
       "Caliber X"
+    ],
+    "poster": "concerts/2017-06-24-turiec-fest/plagat.jpg",
+    "images": [
+      "concerts/2017-06-24-turiec-fest/fotky/turiec-fest-01.jpg",
+      "concerts/2017-06-24-turiec-fest/fotky/turiec-fest-02.jpg",
+      "concerts/2017-06-24-turiec-fest/fotky/turiec-fest-03.jpg",
+      "concerts/2017-06-24-turiec-fest/fotky/turiec-fest-04.jpg",
+      "concerts/2017-06-24-turiec-fest/fotky/turiec-fest-05.jpg",
+      "concerts/2017-06-24-turiec-fest/fotky/turiec-fest-06.jpg"
     ]
   },
   {
@@ -113,7 +160,9 @@
       "Helenine Oči",
       "Arzén",
       "IMT Smile"
-    ]
+    ],
+    "poster": "concerts/2016-08-06-rock-beskyd-fest-2016/plagat.jpg",
+    "images": []
   },
   {
     "id": "2016-07-02-makovske-hody",
@@ -122,7 +171,9 @@
     "venue": "Poľana",
     "location": "49.371267381253226, 18.480001156669175",
     "datetime": "2016-07-02T20:30:00.000+02:00",
-    "bands": []
+    "bands": [],
+    "poster": "concerts/2016-07-02-makovske-hody/plagat.jpg",
+    "images": []
   },
   {
     "id": "2016-06-04-jazernica-summer-season-opening",
@@ -134,6 +185,10 @@
     "bands": [
       "Bez Hraníc",
       "Grow Up"
+    ],
+    "poster": "concerts/2016-06-04-jazernica-summer-season-opening/plagat.jpg",
+    "images": [
+      "concerts/2016-06-04-jazernica-summer-season-opening/fotky/jazernica-01.jpg"
     ]
   },
   {
@@ -148,7 +203,9 @@
       "Crimson Ocean",
       "Stripless",
       "Maiden Tribute Band"
-    ]
+    ],
+    "poster": "concerts/2016-05-28-hidden-music-fest-2016/plagat.jpg",
+    "images": []
   },
   {
     "id": "2016-04-23-konflikt-poldecak-tour",
@@ -160,7 +217,9 @@
     "bands": [
       "Konfilkt",
       "Sedembolestný panic Mário"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2015-09-19-dni-kultury-nova-bystrica-2015",
@@ -174,7 +233,9 @@
       "All Against Nothing",
       "Arzén",
       "Michal David revival"
-    ]
+    ],
+    "poster": "concerts/2015-09-19-dni-kultury-nova-bystrica-2015/plagat.jpg",
+    "images": []
   },
   {
     "id": "2015-09-19-bytca-michalovsky-jarmok-2015",
@@ -186,7 +247,9 @@
     "bands": [
       "Mad Frequency",
       "Gladiátor"
-    ]
+    ],
+    "poster": "concerts/2015-09-19-bytca-michalovsky-jarmok-2015/plagat.jpg",
+    "images": []
   },
   {
     "id": "2015-08-15-turzovka-stare-ihrisko",
@@ -197,7 +260,9 @@
     "datetime": "2015-08-15T19:00:00.000+02:00",
     "bands": [
       "Haluzotvoristika"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2015-08-08-rock-beskyd-fest-2015",
@@ -213,7 +278,9 @@
       "Sexit",
       "Iron Maiden Tribute",
       "Arakain"
-    ]
+    ],
+    "poster": "concerts/2015-08-08-rock-beskyd-fest-2015/plagat.jpg",
+    "images": []
   },
   {
     "id": "2015-06-19-grow-up-taki-aki-sme-tour-2015",
@@ -225,10 +292,12 @@
     "bands": [
       "Grow up",
       "Haluzotvoristika"
-    ]
+    ],
+    "poster": "concerts/2015-06-19-grow-up-taki-aki-sme-tour-2015/plagat.jpg",
+    "images": []
   },
   {
-    "id": "2016-04-11-famat-2015",
+    "id": "2015-04-11-famat-2015",
     "title": "Famat 2015",
     "city": "Nové Mesto nad Váhom",
     "venue": "Klub Za Rampami",
@@ -240,6 +309,10 @@
       "Dave Brennigan",
       "Ranná Nevoľnosť",
       "Zoči Voči"
+    ],
+    "poster": "concerts/2015-04-11-famat-2015/plagat.jpg",
+    "images": [
+      "concerts/2015-04-11-famat-2015/fotky/famat-01.jpg"
     ]
   },
   {
@@ -253,7 +326,9 @@
       "HWCO",
       "Retorik",
       "Archa"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2015-02-06-music-mravec-fest-2015",
@@ -268,7 +343,9 @@
       "All Against Nothing",
       "Mad Frequency",
       "B0M!M4C4"
-    ]
+    ],
+    "poster": "concerts/2015-02-06-music-mravec-fest-2015/plagat.jpg",
+    "images": []
   },
   {
     "id": "2014-12-12-rockove-vianoce-vol-3",
@@ -279,7 +356,9 @@
     "datetime": "2014-12-12T19:00:00.000+01:00",
     "bands": [
       "Sklené oči"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-11-25-radio-x-zivak",
@@ -290,7 +369,9 @@
     "datetime": "2014-11-25T20:00:00.000+01:00",
     "bands": [
       "Whiskey Weekend"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-10-10-rockova-noc-v-drevine",
@@ -303,7 +384,9 @@
       "Tak či onak",
       "T.O.R.",
       "Alfa"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-10-04-martenz-akusticky",
@@ -312,7 +395,9 @@
     "venue": "Martenz (Artenz)",
     "location": "49.4383674917598, 18.785053473016248",
     "datetime": "2014-10-04T20:00:00.000+02:00",
-    "bands": []
+    "bands": [],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-09-20-fest-rock-vysoka-2014",
@@ -325,7 +410,9 @@
       "Elán Tribute",
       "Tak či onak",
       "Koridor"
-    ]
+    ],
+    "poster": "concerts/2014-09-20-fest-rock-vysoka-2014/plagat.jpg",
+    "images": []
   },
   {
     "id": "2014-08-29-makov-end-of-the-summer",
@@ -336,7 +423,9 @@
     "datetime": "2014-08-29T20:00:00.000+02:00",
     "bands": [
       "---"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-08-09-bytca-rock-in-garden",
@@ -349,7 +438,9 @@
       "Bokom Okolky",
       "Caliber X",
       "N-grave"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-08-01-rock-beskyd-fest-2014",
@@ -362,7 +453,9 @@
       "The Paranoid",
       "IneKafe",
       "..."
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-06-21-hidden-music-fest-2014",
@@ -373,7 +466,9 @@
     "datetime": "2014-06-21T17:00:00.000+02:00",
     "bands": [
       "..."
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-06-20-dni-kultury-nova-bystrica-2014",
@@ -387,7 +482,9 @@
       "Premier",
       "Arthera",
       "Thetox"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-04-19-turzovka-priority-akusticky",
@@ -398,7 +495,9 @@
     "datetime": "2014-04-19T19:30:00.000+02:00",
     "bands": [
       "---"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-02-28-cadca-martenz-akusticky",
@@ -409,7 +508,9 @@
     "datetime": "2014-02-28T19:00:00.000+01:00",
     "bands": [
       "---"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-02-24-bratislava-rainmans-singel-roku",
@@ -420,7 +521,9 @@
     "datetime": "2014-02-24T16:00:00.000+01:00",
     "bands": [
       "--"
-    ]
+    ],
+    "poster": null,
+    "images": []
   },
   {
     "id": "2014-02-08-music-mravec-fest-2014",
@@ -435,7 +538,9 @@
       "10 Coins",
       "Witty Joe",
       "Vulpus"
-    ]
+    ],
+    "poster": "concerts/2014-02-08-music-mravec-fest-2014/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-12-28-zimny-fest-2013",
@@ -448,7 +553,9 @@
       "Šleha",
       "Jirka Schelinger revival",
       "R.U.M."
-    ]
+    ],
+    "poster": "concerts/2013-12-28-zimny-fest-2013/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-12-26-vargos-fest-2013-winter",
@@ -462,7 +569,9 @@
       "How-No-Cuc",
       "For Tape",
       "Predestination"
-    ]
+    ],
+    "poster": "concerts/2013-12-26-vargos-fest-2013-winter/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-11-29-escape-club-mini-acoustic-tour-2013",
@@ -473,6 +582,18 @@
     "datetime": "2013-11-29T18:30:00.000+01:00",
     "bands": [
       "Wadda"
+    ],
+    "poster": null,
+    "images": [
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-01.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-02.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-03.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-04.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-05.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-06.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-07.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-08.jpg",
+      "concerts/2013-11-29-escape-club-mini-acoustic-tour-2013/fotky/acoustic-escape-09.jpg"
     ]
   },
   {
@@ -482,7 +603,9 @@
     "venue": "",
     "location": "",
     "datetime": "2013-11-23T18:30:00.000+01:00",
-    "bands": []
+    "bands": [],
+    "poster": "concerts/2013-11-23-makov-mini-acoustic-tour-2013/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-11-16-turzovka-mini-acoustic-tour-2013",
@@ -491,7 +614,9 @@
     "venue": "",
     "location": "",
     "datetime": "2013-11-16T20:00:00.000+01:00",
-    "bands": []
+    "bands": [],
+    "poster": "concerts/2013-11-16-turzovka-mini-acoustic-tour-2013/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-09-20-zilina-escape-club-grand-opening-2013",
@@ -500,7 +625,22 @@
     "venue": "",
     "location": "",
     "datetime": "2013-09-20T16:00:00.000+02:00",
-    "bands": []
+    "bands": [],
+    "poster": "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/plagat.jpg",
+    "images": [
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-01.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-02.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-03.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-04.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-05.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-06.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-07.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-08.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-09.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-10.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-11.jpg",
+      "concerts/2013-09-20-zilina-escape-club-grand-opening-2013/fotky/escape-12.jpg"
+    ]
   },
   {
     "id": "2013-08-30-makoffest-2013",
@@ -520,7 +660,9 @@
       "SEVER ZEME",
       "DANO & KUBEZ",
       "Bod Omylu"
-    ]
+    ],
+    "poster": "concerts/2013-08-30-makoffest-2013/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-08-24-hidden-music-fest-2013",
@@ -535,7 +677,9 @@
       "GREEDY INVALID",
       "KORN SK REVIVAL BAND",
       "RAMMSTEIN SK REVIVAL BAND"
-    ]
+    ],
+    "poster": "concerts/2013-08-24-hidden-music-fest-2013/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-08-17-vargos-fest-2013-summer",
@@ -550,6 +694,11 @@
       "Get Loose",
       "Predestination",
       "Pearl Jam (revival)"
+    ],
+    "poster": null,
+    "images": [
+      "concerts/2013-08-17-vargos-fest-2013-summer/fotky/vargos-01.jpg",
+      "concerts/2013-08-17-vargos-fest-2013-summer/fotky/vargos-02.jpg"
     ]
   },
   {
@@ -561,7 +710,9 @@
     "datetime": "2013-06-29T13:00:00.000+02:00",
     "bands": [
       "NoXcuse"
-    ]
+    ],
+    "poster": "concerts/2013-06-29-makov-hudbou-k-rozletu/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-08-02-rock-beskyd-fest-2013",
@@ -575,7 +726,9 @@
       "Konflikt",
       "Gladiátor",
       "Nirvana revival"
-    ]
+    ],
+    "poster": "concerts/2013-08-02-rock-beskyd-fest-2013/plagat.jpg",
+    "images": []
   },
   {
     "id": "2013-06-22-dni-kultury-nova-bystrica-2013",
@@ -590,6 +743,8 @@
       "Mad Frequency",
       "Arzén",
       "Roxette Revival"
-    ]
+    ],
+    "poster": "concerts/2013-06-22-dni-kultury-nova-bystrica-2013/plagat.jpg",
+    "images": []
   }
 ]
