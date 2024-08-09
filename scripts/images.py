@@ -39,4 +39,4 @@ for concert in concerts:
     concert['images'] = concert_img['images']
 
 with open('./concerts/concerts.json', 'w') as f:
-    json.dump(concerts, f, ensure_ascii=False)
+    json.dump(concerts, f, ensure_ascii=False, indent=2)
